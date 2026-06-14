@@ -17,7 +17,3 @@ my music taste 🎧: goreshit,lolicore,nightcore,breakcore, i really like the si
 and personnaly i lately started using github to upload my project.
 i do kickboxing and minesweeper when im bored and i play a lot of games and my fav genre is option based games and horror.
 i love animes like steins gate, serial expirements lain and girls und panzer.
-
-## one of mine fav project
-https://github.com/KishaWeb/real_journal
-https://github.com/KishaWeb/treat_gpt
